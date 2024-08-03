@@ -60,5 +60,5 @@ A [brief description of your project].
 Licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-- **Your Name** - [your-email@example.com](mailto:your-email@example.com)
-- [GitHub Profile](https://github.com/your-username)
+- **Your Name** - [abhinavkasala55@gmail.com](mailto:your-email@example.com)
+- [GitHub Profile](https://github.com/KasalaAbhinav)
